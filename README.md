@@ -5,3 +5,4 @@
 # Part_4. Methods to combat multicollinearity
 Confidence intervals in multicollinearity, LASSO regression in R, ridge regression and the idea of lambda estimation, Principal component method in R.
 # Part_5. Creating functions and loops, checking for heteroscedasticity
+# Part_6. Autocorrelation, concept, tests
